@@ -1,0 +1,869 @@
+@media (max-width:480px){
+    
+    
+    *{
+        margin: 0%;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        /* border: 1px solid red; */
+    }
+
+    .fluit-container{
+        width: 100%;
+        height: auto;
+        background-color: black;
+        
+    }
+
+    .main-bgimage{
+        width: 100%;
+        height: 120vh;
+        background-image: url(./1e054acf-d9ba-4513-a270-14440dbe6526.jpeg);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .black-color{
+        width: 100%;
+        height: 120vh;
+        background: rgb(255,255,255);
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0.082) 0%, rgba(0, 0, 0, 0.291) 35%, rgba(0, 0, 0, 0.966) 100%);
+        padding: 20px;
+    }
+
+    .page-one-heading{
+        width: 100%;
+        height: auto;
+    }
+
+    .page-one-heading h2{
+        width: 100%;
+        height: auto;
+        font-size: 35px;
+        position: sticky;
+        color: white;
+        line-height: 33px;
+        text-decoration: underline #ff8921;
+    }
+
+    .at-max-trading{
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: start;
+        justify-content: end;
+        flex-direction: column;
+        color: white;
+    }
+
+    .at-max-trading h3{
+        color: #ff8921;
+    }
+
+    .at-max-trading p{
+        font-size: 15px;
+        line-height: 28px;
+    }
+
+    .bg-image-2{
+        width: 100%;
+        height: 130vh;
+        background-image: url(./Screenshot\ 2024-10-07\ 112107.png);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .black-color2{
+        width: 100%;
+        height: 130vh;
+        background: rgb(255,255,255);
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0.024) 0%, rgba(0, 0, 0, 0.202) 35%, rgba(0, 0, 0, 0.634) 100%);
+        padding: 20px;
+    }
+
+    .why-choose{
+        width: 100%;
+        height: 120vh;
+        display: flex;
+        align-items: start;
+        justify-content: end;
+        flex-direction: column;
+        color: white;
+    }
+
+    .why-choose h3{
+        color: #dec104;
+        text-decoration: underline;
+        padding-bottom: 15px;
+    }
+
+    .why-choose ul{
+        font-size: 14px;
+        list-style: none;
+        line-height: 20px;
+    }
+
+    .why-choose ul li em{
+        color: #dec104;
+    }
+
+    .ppe-bg-img-con{
+        width: 100%;
+        height: 130vh;
+        background-image: url(./WhatsApp\ Image\ 2024-10-07\ at\ 00.20.48_6f006677.jpg);
+        background-position: center;
+        background-size: cover;
+        color: white;
+    }
+
+    .our-products{
+        width: 100%;
+        height: 130vh;
+        background: rgb(0,0,0);
+        background: linear-gradient(6deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0.582) 35%, rgba(0,0,0,0) 100%);
+        display: flex;
+        align-items: start;
+        justify-content: end;
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .our-products h3{
+        font-size: 35px;
+        color: #ed5017;
+        text-decoration: underline white;
+    }
+
+    .our-products ul{
+        list-style: none;
+        font-size: 14px;
+        line-height: 22px;
+        font-style: normal;
+    }
+
+    .our-products ul li em{
+        font-style: normal;
+        color: #da6337;
+    }
+    
+    .halmate-con{
+        width: 100%;
+        height:100vh;
+        background-image: url(./sss.png);
+        background-position: center;
+        background-size: cover;
+        padding: 20px;
+        padding-top: 40px;
+    }
+
+    .halmate-con h5{
+        color: #da6337;
+    }
+
+    .halmate-con p{
+        color: white;
+        font-size: 14px;
+    }
+
+    .colours-available{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: start;
+        justify-content: start;
+        flex-direction: column;
+        color: rgba(255, 255, 255, 0.582);
+        padding-top: 20px;
+    }
+    
+    .colours-available img{
+        width: 40%;
+    }
+
+    .key-features{
+        width: 100%;
+        height: auto;
+        color: white;
+        background-color: #1B1B1B;
+        padding: 20px;
+    }
+
+    .list01{
+        width: 100%;
+        height: auto;
+    }
+
+    .list01 h4{
+        font-weight: 500;
+        color: #da6337;
+    }
+
+    .list01 ul{
+        list-style: none;
+        line-height: 22px;
+        font-size: 13px;
+    }
+
+    .list02{
+        width: 100%;
+        height: auto;
+    }
+
+    .list02 h4{
+        font-weight: 500;
+        color: #da6337;
+    }
+
+    .list02 ul{
+        list-style: none;
+        line-height: 22px;
+        font-size: 13px;
+    }
+
+    .list02 ul li img{
+        width: 90%;
+    }
+
+    .glasses-bg-image{
+        width: 100%;
+        height:90vh;
+        background-image: url(./man-with-glass.png);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .black-bg-color{
+        width: 100%;
+        height:90vh;
+        background: rgb(0,0,0);
+        background: linear-gradient(3deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.6419161414565826) 31%, rgba(0,0,0,0.03127188375350143) 68%);
+        display: flex;
+        align-items: center;
+        justify-content: end;
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .black-bg-color h1{
+        color: white;
+        font-weight: 400;
+    }
+
+    .black-bg-color ul{
+        width: 100%;
+        height: auto;
+        font-size: 12px;
+        color: white;
+        line-height: 1.5;
+    }
+
+
+
+ 
+
+
+    /* container7 start */
+
+    .container7{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .glas-bg{
+        width: 100%;
+        height: auto;
+        background-image: url(./Eye-Protection-Safety-Glasses-of-Dental-Equipment\ \(2\).jpg);
+        background-position: center;
+        background-size: cover;
+      
+    }
+
+    .glass-bg-black-color{
+        width: 100%;
+        height: auto;
+        background-color: rgba(0, 0, 0, 0.599);
+        backdrop-filter: blur(10px);
+        padding: 10px;
+    }
+
+
+    .saftey-glass-con{
+        width: 100%;
+        height: auto;
+        display: flex;
+    }
+
+
+    .glass-img-con{
+        width: 45%;
+        height: auto;
+    }
+
+    .glass-img-con img{
+        width: 80%;
+    }
+
+    .text-con-glass{
+        width: 55%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .text-con-glass p{
+        width: 100%;
+        height: auto;
+        font-size: 16px;
+        color: white;
+        line-height: 1.6;
+    }
+
+    .text-con-glass p em{
+        color: #da6337;
+        font-style: normal;
+        font-size: 17px;
+    }
+
+    .glass-bg-black-color h2{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        color: #da6337;
+    }
+ 
+
+    .glass-bg-black-color ul{
+        width: 100%;
+        height: auto;
+        list-style: none;
+        color: white;
+        font-weight: 300;
+        font-size: 14px;   
+        line-height: 1.6;
+    }
+
+    .glass-bg-black-color ul li{
+        width: 100%;
+        height: auto;
+        font-weight: 400;
+    }
+
+    .glass-bg-black-color ul li em{
+        font-style: normal;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+        padding-inline: 2px;
+    }
+
+
+    .glass-bg-black-color ul li i{
+        padding: 1px;
+        color: #0ac300;
+    }
+
+    .saftey-glass-con2 img{
+        width: 30%;
+    }
+
+    .container8{
+        width: 100%;
+        height: auto;
+        background-color: black;
+    }
+
+    .text-earplugs{
+        width: 100%;
+        height: auto;
+    }
+
+    .text-earplugs ul{
+        color: white;
+        list-style: none;
+    }
+
+    .text-earplugs ul li h1{
+        color: #dec104;
+        height: 50px;
+        font-size: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+    }
+
+    .text-earplugs ul li em{
+        color: #dec104;
+        font-size: 15px;
+        font-style: normal;  
+    }
+
+    .text-earplugs ul li{
+        font-size: 14px;
+        line-height: 1.6;
+    }
+
+    .container9{
+        width: 100%;
+        height: auto;
+        
+        background-color: black;
+    }
+
+    .mask-text-content{
+        width: 100%;
+        height: auto;
+        color: white;
+    }
+
+    .mask-text-content ul h2{
+        width: 100%;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        color: #dec104;
+        font-size: 21px;
+        /* text-decoration: 1px underline; */
+    }
+
+    .mask-text-content ul{
+        list-style: none;
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    .mask-text-content ul li em{
+        width: 100%;
+        height: auto;
+        font-style: normal;
+        font-size: 16px;
+        color: #dec104;
+        /* text-decoration:  1px underline; */
+    }
+
+
+    .gloves-text-content{
+        width: 100%;
+        height: auto;
+        background-color: #000000;
+ 
+    }
+
+    .gloves-text-content ul{
+        list-style: none;
+        line-height: 1.5;
+        color: white;
+    }
+
+    .gloves-text-content ul h2{
+        width: 100%;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        color: #dec104;
+        font-size: 22px;
+        text-decoration: 1px underline;
+    }
+
+    .gloves-text-content ul li em{
+        width: 100%;
+        height: auto;
+        font-style: normal;
+        font-size: 16px;
+        color: #dec104;
+
+    }
+
+    .gloves-text-content ul li{
+        font-size: 14px;
+    }
+
+
+    /*  */
+
+    .container10{
+        width: 100%;
+        height: 100vh;
+      
+    }
+
+    .main-shoes-banner{
+        background-image: url(./bg-shoe.jpg);
+        background-position: center;
+        background-size: cover;
+
+    }
+
+    .shoe-black-color{
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: end;
+        justify-content: center;
+        background: rgb(0,0,0);
+        background: linear-gradient(192deg, rgba(0,0,0,0.13211221988795518) 73%, rgba(0,0,0,0.5242690826330532) 86%, rgba(0,0,0,0.5578825280112045) 86%, rgba(0,0,0,0.3646052170868347) 99%);
+    }
+
+    .shoe-black-color h1{
+        width: 100%;
+        height: auto;
+        font-size: 45px;
+        color: whitesmoke;
+        padding: 10px;
+        /* text-decoration: 1px solid underline; */
+    }
+
+
+
+    .shoes-text-content{
+        width: 100%;
+        height: auto;
+    }
+
+    .shoes-text-content h2{
+        width: 100%;
+        height: 60px;
+        display: flex;
+        align-items: center;
+       
+    }
+
+    .shoes-text-content ul{
+        width: 100%;
+        height: auto;
+        color: white;
+        list-style: none;
+        font-size: 14px;
+        line-height: 1.5;
+
+
+    }
+
+    .shoes-text-content ul li{
+        width: 100%;
+        height: auto;  
+    }
+
+    .shoes-text-content ul li em{
+        font-style: normal;
+        color: #dec104;
+        font-size: 16px;
+    }
+    
+    /*||*/
+
+    .con-11{
+        width: 100%;
+        height: auto;
+        background-image: url(./jacket-main-image.webp);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .black-jacket{
+        width: 100%;
+        height: 100vh;
+        background: rgb(0,0,0);
+        background: linear-gradient(3deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.6419161414565826) 31%, rgba(0,0,0,0.03127188375350143) 68%);
+        color: white;
+        display: flex;
+        align-items: end;
+        justify-content: start;
+    }
+
+   
+    .black-jacket h1{
+        width: 100%;
+        height: auto;
+        font-size: 30px;
+        padding-left: 10px;
+        color: #da6337;
+        text-decoration: underline 2px white;
+    }
+
+    /* Custom style for cute slider icons */
+.custom-prev-icon,
+.custom-next-icon {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  background-color: #ffcccb; /* Light pink color */
+  border-radius: 50%;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Cute Arrow Design for Previous Button */
+.custom-prev-icon::before {
+  content: '❮'; /* Cute left arrow */
+  font-size: 20px;
+  color: #f06292; /* Cute pastel pink */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Cute Arrow Design for Next Button */
+.custom-next-icon::before {
+  content: '❯'; /* Cute right arrow */
+  font-size: 20px;
+  color: #f06292; /* Cute pastel pink */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.jacket-text-content{
+    width: 100%;
+    height: auto;
+}
+
+.jacket-text-content h2{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.jacket-text-content ul{
+    width: 100%;
+    height: auto;
+    line-height: 1.5;
+    list-style: none;
+    color: white; 
+}
+
+.jacket-text-content ul li{
+        font-size: 14px;    
+}
+
+.jacket-text-content ul li em{
+    color: #ff8921;
+    font-style: normal;
+}
+
+/* heat text content  */
+
+.heat-text-content{
+    width: 100%;
+    height: auto;
+    
+}
+
+.heat-text-content ul{
+    width: 100%;
+    height: auto;
+    color: white;
+    list-style: none;
+    padding-right: 10px;
+}
+
+.heat-text-content ul h2{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    color: silver;
+}
+
+.heat-text-content ul li{
+    line-height: 1.5;
+    font-size: 14px;
+}
+
+.heat-text-content ul li em{
+    font-style: normal;
+    color: #da6337;
+    font-size: 16px;
+}
+
+.fire-ext-con{
+    width: 100%;
+    height: auto;
+}
+
+.fire-ext-con ul{
+    width: 100%;
+    height: auto;
+    color: white;
+    list-style: none;
+}
+
+
+.fire-ext-con h2{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.fire-ext-con ul li{
+    width: 100%;
+    hyphens: auto;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.fire-ext-con ul li em{
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: 1px;
+    color: #f59c7b;
+}
+
+
+/* footer */
+
+.footer1{
+    width: 100%;
+    height: auto;
+    padding-block: 50px;
+    background-color: rgb(25, 25, 25);
+}
+
+.footer-heading{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+
+.footer-heading h2 {
+    width: 100%;
+    height: 100px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-shadow: -1px -1px 0px coral; /* Corrected text shadow */
+    color: #ffffff; /* Text color */
+}
+
+
+.products-brand{
+    width: 100%;
+    height: auto;
+}
+
+.products-brand ul p{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    padding-right: 20px;
+}
+
+.products-brand ul{
+    width: 100%;
+    height: auto;
+    color: white;
+}
+
+.products-brand ul li{
+    width: 100%;
+    height: auto;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.products-brand ul li em{
+    text-decoration: underline;
+    color: #f09574;
+    letter-spacing: 2px;
+}
+
+
+/* footer 2 */
+
+.footer2{
+    width: 100%;
+    height: auto;
+    background-color: #212529;
+   
+}
+
+.footer2 h2{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 2px;
+    font-weight: 300;
+    color: white;
+}
+
+.footer2 p{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.7;
+    color: white;
+}
+
+.footer2 H1{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 300;
+    margin-left: 10px;
+    color: white;
+}
+
+/*  */
+
+
+.call-icon {
+    position: fixed;
+    bottom: 40px;
+    right: 25px;
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: #058a48; /* Bootstrap primary color */
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s;
+}
+
+.call-icon:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+
+
+
+
+
+    
+
+
+
+    
+    
+
+
+}
